@@ -6,7 +6,7 @@ category:
 tags: [设计模式]
 ---
 {% include JB/setup %}     
-> 请尊重原创，转载请注
+> 请尊重原创，转载请注明
 
 和开发主管聊天，说新人难带，主要凸显的问题在几个方面：
 
@@ -45,6 +45,19 @@ tags: [设计模式]
 * [单例模式](https://github.com/arkulo56/thought/issues/49)
 
 
-####持续更新中～～～～
+**结构型模式：**
 
+* [适配器模式](https://github.com/arkulo56/thought/issues/50)
+* [桥接模式](https://github.com/arkulo56/thought/issues/51)
+* [装饰者模式](https://github.com/arkulo56/thought/issues/52)
+* [外观模式](https://github.com/arkulo56/thought/issues/53)
+* [享元模式](https://github.com/arkulo56/thought/issues/54)
+* [代理模式](https://github.com/arkulo56/thought/issues/55)
 
+***
+
+**行为型模式：**
+
+* [命令模式](https://github.com/arkulo56/thought/issues/56)
+
+***持续更新中～～～***
